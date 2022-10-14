@@ -1,0 +1,72 @@
+/* Inter - regular */
+@font-face {
+    font-family: 'Inter';
+    font-style:  normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("Inter-Regular.woff2") format("woff2"),
+         url("Inter-Regular.woff") format("woff");
+}
+/* Inter - regular italic */
+@font-face {
+    font-family: 'Inter';
+    font-style:  italic;
+    font-weight: 400;
+    font-display: swap;
+    src: url("Inter-Italic.woff2") format("woff2"),
+         url("Inter-Italic.woff") format("woff");
+}
+/* Inter - medium */
+@font-face {
+    font-family: 'Inter';
+    font-style:  normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url("Inter-Medium.woff2") format("woff2"),
+         url("Inter-Medium.woff") format("woff");
+}
+/* Inter - medium italic */  
+@font-face {
+    font-family: 'Inter';
+    font-style:  italic;
+    font-weight: 500;
+    font-display: swap;
+    src: url("Inter-MediumItalic.woff2") format("woff2"),
+         url("Inter-MediumItalic.woff") format("woff");
+}
+/* Inter - bold */ 
+@font-face {
+    font-family: 'Inter';
+    font-style:  normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url("Inter-Bold.woff2") format("woff2"),
+         url("Inter-Bold.woff") format("woff");
+}
+/* Inter - bold italic */ 
+@font-face {
+    font-family: 'Inter';
+    font-style:  italic;
+    font-weight: 700;
+    font-display: swap;
+    src: url("Inter-BoldItalic.woff2") format("woff2"),
+         url("Inter-BoldItalic.woff") format("woff");
+}
+/* Roboto Mono - Regular */ 
+@font-face {
+    font-family: 'Roboto Mono';
+    font-style:  normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("Roboto-mono-v22-latin-regular.woff2") format("woff2"),
+         url("Roboto-mono-v22-latin-regular.woff") format("woff");
+}
+/* Roboto Mono - Italic */ 
+@font-face {
+    font-family: 'Roboto Mono';
+    font-style:  italic;
+    font-weight: 400;
+    font-display: swap;
+    src: url("Roboto-mono-v22-latin-regular.woff2") format("woff2"),
+         url("Roboto-mono-v22-latin-regular.woff") format("woff");
+}
